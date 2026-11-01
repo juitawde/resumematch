@@ -6,6 +6,9 @@ ResumeMatch is a web application designed to help job seekers understand how wel
 
 The platform analyzes resume content against a target job description and helps users create a more relevant, structured, and ATS-friendly resume while preserving the accuracy and integrity of their original information.
 
+**Live Deployed Link:**
+https://resumematch-nine.vercel.app/
+
 ---
 
 ## Table of Contents
@@ -26,7 +29,6 @@ The platform analyzes resume content against a target job description and helps 
 14. [Security and Best Practices](#security-and-best-practices)
 15. [Troubleshooting](#troubleshooting)
 16. [Future Improvements](#future-improvements)
-17. [License](#license)
 
 ---
 
