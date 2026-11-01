@@ -1,0 +1,15 @@
+Jui Tawde
+Software Development Student
+
+SUMMARY
+IT student interested in web development and data-driven products.
+
+SKILLS
+JavaScript, React, Node.js, Express, SQL, Git, HTML, CSS
+
+PROJECTS
+Resume Builder: Built a web application to create and manage resume content.
+PulseChat: Created a real-time group chat prototype using Node.js, Express, and Socket.io.
+
+EDUCATION
+BTech Information Technology — In progress

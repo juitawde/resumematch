@@ -1,0 +1,11 @@
+Junior Full Stack Developer
+
+Responsibilities
+- Build responsive user interfaces using React and JavaScript.
+- Develop REST APIs using Node.js and Express.
+- Work with SQL or MongoDB databases.
+- Use Git and collaborate with a team.
+
+Requirements
+- JavaScript, React, Node.js, Express, REST APIs, SQL, MongoDB, Git, testing, communication skills.
+- Demonstrable project experience and problem solving.
